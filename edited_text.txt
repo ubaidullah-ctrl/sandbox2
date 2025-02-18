@@ -1,1 +1,3 @@
-this is a newly added text.
+this is a newly added sh#t.
+
+test for rebase
